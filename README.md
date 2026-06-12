@@ -1,4 +1,4 @@
-# Walkthrys
+# Walkthrus
 
 A collection of beginner-friendly CTF walkthroughs by iShowLinux + Hermes Agent.
 
